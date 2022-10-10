@@ -58,5 +58,24 @@
       "edges": false,
       "visible": true
     }]
+  },{
+    "id": "znwl",
+    "name": "znwl",
+    "thumbnail": "projects/dfdqd/dfdqd.png",
+    "camera": {
+      "eye": [-65, 37, 41],
+      "look": [-15, 0, 15]
+    },
+    "models": [{
+      "name": "H",
+      "src": "projects/znwl/znwl02.glb",
+      "position": [0, 0, 0],
+      "rotation": [0, 0, 0],
+      "scale": [1, 1, 1],
+      "instantiate": false,
+      "merge": false,
+      "edges": false,
+      "visible": true
+    }]
   }
 ]
