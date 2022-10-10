@@ -2,14 +2,14 @@
    {
     "id": "H",
     "name": "H building",
-    "thumbnail": "projects/H/H.png",
+    "thumbnail": "projects/h/H.png",
     "camera": {
       "eye": [-65, 37, 41],
       "look": [-15, 0, 15]
     },
     "models": [{
       "name": "H",
-      "src": "projects/H/h.glb",
+      "src": "projects/h/h.glb",
       "position": [0, 0, 0],
       "rotation": [0, 0, 0],
       "scale": [1, 1, 1],
@@ -19,7 +19,7 @@
       "visible": true
     },{
       "name": "H_d",
-      "src": "projects/H/d.glb",
+      "src": "projects/h/d.glb",
       "position": [0, 0, 0],
       "rotation": [0, 0, 0],
       "scale": [1, 1, 1],
@@ -29,7 +29,7 @@
       "visible": true
     },{
       "name": "H_f",
-      "src": "projects/H/f.glb",
+      "src": "projects/h/f.glb",
       "position": [0, 0, 0],
       "rotation": [0, 0, 0],
       "scale": [1, 1, 1],
@@ -42,14 +42,14 @@
   },{
     "id": "DFDQD",
     "name": "DFDQD",
-    "thumbnail": "projects/DFDQD/dfdqd.png",
+    "thumbnail": "projects/dfdqd/dfdqd.png",
     "camera": {
       "eye": [-65, 37, 41],
       "look": [-15, 0, 15]
     },
     "models": [{
       "name": "H",
-      "src": "projects/DFDQD/dfdqd.glb",
+      "src": "projects/dfdqd/dfdqd.glb",
       "position": [0, 0, 0],
       "rotation": [0, 0, 0],
       "scale": [1, 1, 1],
