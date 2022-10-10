@@ -1,0 +1,62 @@
+[
+   {
+    "id": "H",
+    "name": "H building",
+    "thumbnail": "projects/H/H.png",
+    "camera": {
+      "eye": [-65, 37, 41],
+      "look": [-15, 0, 15]
+    },
+    "models": [{
+      "name": "H",
+      "src": "projects/H/_H.glb",
+      "position": [0, 0, 0],
+      "rotation": [0, 0, 0],
+      "scale": [1, 1, 1],
+      "instantiate": false,
+      "merge": false,
+      "edges": false,
+      "visible": true
+    },{
+      "name": "H_d",
+      "src": "projects/H/_D.glb",
+      "position": [0, 0, 0],
+      "rotation": [0, 0, 0],
+      "scale": [1, 1, 1],
+      "instantiate": false,
+      "merge": false,
+      "edges": false,
+      "visible": true
+    },{
+      "name": "H_f",
+      "src": "projects/H/_F.glb",
+      "position": [0, 0, 0],
+      "rotation": [0, 0, 0],
+      "scale": [1, 1, 1],
+      "instantiate": false,
+      "merge": false,
+      "edges": true,
+      "visible": true
+    }
+    ]
+  },{
+    "id": "DFDQD",
+    "name": "DFDQD",
+    "thumbnail": "projects/DFDQD/dfdqd.png",
+    "camera": {
+      "eye": [-65, 37, 41],
+      "look": [-15, 0, 15]
+    },
+    "models": [{
+      "name": "H",
+      "src": "projects/DFDQD/dfdqd.glb",
+      "position": [0, 0, 0],
+      "rotation": [0, 0, 0],
+      "scale": [1, 1, 1],
+      "instantiate": false,
+      "merge": false,
+      "edges": false,
+      "visible": true
+    }]
+  }
+]
