@@ -115,5 +115,53 @@
       "edges": false,
       "visible": true
     }]
+  },{
+    "id": "ExhibitionCenter",
+    "name": "ExhibitionCenter",
+    "thumbnail": "projects/exh/rac_basic.png",
+    "camera": {
+      "eye": [-65, 37, 41],
+      "look": [-15, 0, 15]
+    },
+    "models": [{
+      "name": "H",
+      "src": "projects/exh/exh_c.glb",
+      "position": [0, 0, 0],
+      "rotation": [0, 0, 0],
+      "scale": [1, 1, 1],
+      "instantiate": false,
+      "merge": false,
+      "edges": false,
+      "visible": true
+    },{
+      "name": "H",
+      "src": "projects/exh/exh_mep.glb",
+      "position": [0, 0, 0],
+      "rotation": [0, 0, 0],
+      "scale": [1, 1, 1],
+      "instantiate": false,
+      "merge": false,
+      "edges": false,
+      "visible": true
+    }]
+  },{
+    "id": "sswt",
+    "name": "sswt",
+    "thumbnail": "projects/sswt/sswt.png",
+    "camera": {
+      "eye": [-65, 37, 41],
+      "look": [-15, 0, 15]
+    },
+    "models": [{
+      "name": "H",
+      "src": "projects/sswt/sswt.glb",
+      "position": [0, 0, 0],
+      "rotation": [0, 0, 0],
+      "scale": [1, 1, 1],
+      "instantiate": false,
+      "merge": false,
+      "edges": false,
+      "visible": true
+    }]
   }
 ]
