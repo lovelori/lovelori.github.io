@@ -77,5 +77,43 @@
       "edges": false,
       "visible": true
     }]
+  },{
+    "id": "rac_advance",
+    "name": "rac_advance",
+    "thumbnail": "projects/rac_advanced_sample/rac_advanced.png",
+    "camera": {
+      "eye": [-65, 37, 41],
+      "look": [-15, 0, 15]
+    },
+    "models": [{
+      "name": "H",
+      "src": "projects/rac_advanced_sample/rac_advanced.glb",
+      "position": [0, 0, 0],
+      "rotation": [0, 0, 0],
+      "scale": [1, 1, 1],
+      "instantiate": false,
+      "merge": false,
+      "edges": false,
+      "visible": true
+    }]
+  },{
+    "id": "rac_basic",
+    "name": "rac_basic",
+    "thumbnail": "projects/rac_basic_sample/rac_basic.png",
+    "camera": {
+      "eye": [-65, 37, 41],
+      "look": [-15, 0, 15]
+    },
+    "models": [{
+      "name": "H",
+      "src": "projects/rac_basic_sample/rac_basic.glb",
+      "position": [0, 0, 0],
+      "rotation": [0, 0, 0],
+      "scale": [1, 1, 1],
+      "instantiate": false,
+      "merge": false,
+      "edges": false,
+      "visible": true
+    }]
   }
 ]
