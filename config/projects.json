@@ -4,8 +4,8 @@
     "name": "H building",
     "thumbnail": "projects/h/H.png",
     "camera": {
-      "eye": [-65, 37, 41],
-      "look": [-15, 0, 15]
+      "eye": [-75, 128, 145],
+      "look": [13, 50, -2]
     },
     "models": [{
       "name": "H",
@@ -44,8 +44,8 @@
     "name": "DFDQD",
     "thumbnail": "projects/dfdqd/dfdqd.png",
     "camera": {
-      "eye": [-65, 37, 41],
-      "look": [-15, 0, 15]
+      "eye": [-21,92,140],
+      "look": [25, 14, 35]
     },
     "models": [{
       "name": "H",
@@ -63,8 +63,8 @@
     "name": "znwl",
     "thumbnail": "projects/znwl/znwl.png",
     "camera": {
-      "eye": [-65, 37, 41],
-      "look": [-15, 0, 15]
+      "eye": [-16, 121, 96],
+      "look": [-61, 11, -1]
     },
     "models": [{
       "name": "H",
