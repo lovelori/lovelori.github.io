@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tools_menu</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.8" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="界面展示" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BIM运维-首页-综合态势备份" transform="translate(-1548.000000, -988.000000)" fill="url(#linearGradient-1)">
+            <g id="编组" transform="translate(1230.000000, 725.000000)">
+                <g id="编组-34备份-4" transform="translate(310.000000, 255.000000)">
+                    <g id="编组-35" transform="translate(8.000000, 8.000000)">
+                        <path d="M2,13.1111111 L10.8888889,13.1111111 L10.8888889,2 L2,2 L2,13.1111111 L2,13.1111111 Z M2,22 L10.8888889,22 L10.8888889,15.3333333 L2,15.3333333 L2,22 L2,22 Z M13.1111111,22 L22,22 L22,10.8888889 L13.1111111,10.8888889 L13.1111111,22 L13.1111111,22 Z M13.1111111,2 L13.1111111,8.66666667 L22,8.66666667 L22,2 L13.1111111,2 L13.1111111,2 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

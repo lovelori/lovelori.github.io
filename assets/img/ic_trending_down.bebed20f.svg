@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_trending_down</title>
+    <g id="界面展示" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BIM运维-首页-综合态势备份" transform="translate(-679.000000, -826.000000)">
+            <g id="ic_trending_down" transform="translate(679.000000, 826.000000)">
+                <polygon id="Bounds" points="0 0 36 0 36 36 0 36"></polygon>
+                <path d="M25.5,1.5 L25.5,24 L25.239,24.131 L28.065,27.435 L31.5,24 L31.5,33 L22.5,33 L25.935,29.565 L22.473,25.514 L7.5,33 L7.5,10.6308121 L25.5,1.5 Z M22.5,6.384 L10.5,12.471 L10.5,28.146 L20.464,23.163 L17.115,19.245 L17.115,14.6311324 L22.5,20.928 L22.5,6.384 Z" id="矩形"   fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
